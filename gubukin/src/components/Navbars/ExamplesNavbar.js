@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 // reactstrap components
 import {
   Collapse,
-  NavbarBrand,
   Navbar,
   NavItem,
   NavLink,
