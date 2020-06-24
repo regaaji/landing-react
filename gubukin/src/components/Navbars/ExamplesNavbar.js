@@ -10,6 +10,7 @@ import {
   Nav,
   Container,
   UncontrolledTooltip,
+  Button
 } from "reactstrap";
 
 function ExamplesNavbar() {
@@ -49,17 +50,8 @@ function ExamplesNavbar() {
         <Container>
           
           <div className="navbar-translate">
-            <NavbarBrand
-              href="https://github.com"
-              target="_blank"
-              id="navbar-brand"
-               style={{fontWeight: 'bold', fontSize: 17}}
-            >
-              Gubuk-In
-            </NavbarBrand>
-            <UncontrolledTooltip target="#navbar-brand">
-              Designed by Team Rega
-            </UncontrolledTooltip>
+            <Button href="/" style={{color: 'white', fontSize: 24, fontWeight: 'bold'}} color="link">Gubuk-In</Button>
+           
             <button
               className="navbar-toggler navbar-toggler"
               onClick={() => {

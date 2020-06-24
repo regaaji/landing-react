@@ -124,7 +124,7 @@ function LandingPage() {
                     <img
                       alt="..."
                       className="rounded-circle img-fluid img-raised"
-                      src={require("assets/img/rega2.jpg")}
+                      src={require("assets/img/regasiip.jpeg")}
                     ></img>
                     <h4 className="title">Rega</h4>
                     <p className="category" style={{color: '#2469EF'}}>Frontend</p>
@@ -210,7 +210,7 @@ function LandingPage() {
                     <img
                       alt="..."
                       className="rounded-circle img-fluid img-raised"
-                      src={require("assets/img/fian3.png")}
+                      src={require("assets/img/fian4.png")}
                     ></img>
                     <h4 className="title">Zulfian</h4>
                     <p className="category" style={{color: '#2469EF'}}>Frontend</p>
@@ -239,7 +239,7 @@ function LandingPage() {
                     <img
                       alt="..."
                       className="rounded-circle img-fluid img-raised"
-                      src={require("assets/img/vikra.jpg")}
+                      src={require("assets/img/vikra3.jpg")}
                     ></img>
                     <h4 className="title">Vikra</h4>
                     <p className="category" style={{color: '#2469EF'}}>Backend</p>
@@ -276,7 +276,7 @@ function LandingPage() {
                     <img
                       alt="..."
                       className="rounded-circle img-fluid img-raised"
-                      src={require("assets/img/dwiky2.jpg")}
+                      src={require("assets/img/dwiky.jpg")}
                     ></img>
                     <h4 className="title">Dwiky</h4>
                     <p className="category" style={{color: '#2469EF'}}>Backend</p>
